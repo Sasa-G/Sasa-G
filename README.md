@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Olá+meu+nome+é+Samanta+Gomes!;tenho+19+anos!;Bem-Vindo(a)+ao+meu Perfil!&font=Fira%20Code&center=true&width=780&height=70&color=ff91a2&size=40px&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Olá+meu+nome+é+Samanta+Gomes!;tenho+19+anos!;Bem-Vindo(a)+ao+meu Perfil!&font=Fira%20Code&center=true&width=780&height=70&color=b0005e&size=40px&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samanta-gomes8/)
